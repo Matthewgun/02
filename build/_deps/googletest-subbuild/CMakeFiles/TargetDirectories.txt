@@ -1,3 +1,0 @@
-C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate.dir
-C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/CMakeFiles/edit_cache.dir
-C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/CMakeFiles/rebuild_cache.dir

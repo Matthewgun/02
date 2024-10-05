@@ -1,5 +1,0 @@
-if(EXISTS "C:/labskazenkov/lab2/02/build/gtests/tests[1]_tests.cmake")
-  include("C:/labskazenkov/lab2/02/build/gtests/tests[1]_tests.cmake")
-else()
-  add_test(tests_NOT_BUILT tests_NOT_BUILT)
-endif()
