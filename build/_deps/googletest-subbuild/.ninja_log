@@ -1,0 +1,23 @@
+# ninja log v5
+3691	3798	7498079199772250	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	aa7f0dba2d93e6ad
+4237	4392	7498079205702150	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/CMakeFiles/googletest-populate-complete	fdfd596354dba6f7
+3579	3691	7498079198702248	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	368d8c475125976
+4123	4237	7498079204132136	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	2c98f20628282036
+4237	4392	7498079205702150	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	fdfd596354dba6f7
+3691	3798	7498079199772250	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-patch	aa7f0dba2d93e6ad
+4237	4392	7498079205702150	CMakeFiles/googletest-populate-complete	fdfd596354dba6f7
+3579	3691	7498079198702248	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-update	368d8c475125976
+135	3579	7498079197562177	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	679a32ecb8ce8742
+135	3579	7498079197562177	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-download	679a32ecb8ce8742
+4237	4392	7498079205702150	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-done	fdfd596354dba6f7
+3798	3900	7498079200792242	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f9cb15c6d595f461
+4123	4237	7498079204132136	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-test	2c98f20628282036
+4011	4123	7498079203022171	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	f2113e79dd480e9f
+3900	4011	7498079201882153	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	bdfeda01dd35cfcd
+6	134	7498079163130198	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	487f50d62736726d
+3900	4011	7498079201882153	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-build	bdfeda01dd35cfcd
+4011	4123	7498079203022171	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-install	f2113e79dd480e9f
+135	3579	7498079197562177	googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip	679a32ecb8ce8742
+135	3579	7498079197562177	C:/labskazenkov/lab2/02/build/_deps/googletest-subbuild/googletest-populate-prefix/src/609281088cfefc76f9d0ce82e1ff6c30cc3591e5.zip	679a32ecb8ce8742
+3798	3900	7498079200792242	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-configure	f9cb15c6d595f461
+6	134	7498079163130198	googletest-populate-prefix/src/googletest-populate-stamp/googletest-populate-mkdir	487f50d62736726d
