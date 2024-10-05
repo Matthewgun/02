@@ -1,17 +1,17 @@
 # ninja log v5
+21179	21313	7498091808004661	lib/libgmock_maind.a	cb8e52b6c210483c
+65	20310	7498091797714582	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	33963674297a703e
+2963	4009	7498100811111893	gtests/tests[1]_tests.cmake	4b91c8a525fbfa22
+20965	21179	7498091806654590	lib/libgmockd.a	a6872ff344974a07
+20314	20965	7498091804504626	lib/libgtestd.a	75983b055ea35276
+59	5509	7498091649952476	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	4ae99075d64d1841
 2963	4009	7498100811111893	C:/labskazenkov/lab2/02/build/gtests/tests[1]_tests.cmake	4b91c8a525fbfa22
 20978	21128	7498091806154670	lib/libgtest_maind.a	e6332259678e97c6
 473	575	7494155227779836	ip_filter.exe	ca959eedf3911b18
 3	471	7494155226759824	CMakeFiles/ip_filter.dir/ip_filter.cpp.obj	117bdaa0055bcdfa
-20314	20965	7498091804504626	lib/libgtestd.a	75983b055ea35276
-59	5509	7498091649952476	_deps/googletest-build/googlemock/CMakeFiles/gmock_main.dir/src/gmock_main.cc.obj	4ae99075d64d1841
 23	1547	7498094635986822	gtests/CMakeFiles/tests.dir/__/ip_filter.cpp.obj	e126611174b2cfe1
 72	4594	7498091640792444	_deps/googletest-build/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	f8dbd8c336ffa72
-3	1550	7498104208506486	build.ninja	42eef80ef547b93b
+3	1550	7498106446464209	build.ninja	42eef80ef547b93b
+2963	4009	7498100811111893	gtests/tests.exe	4b91c8a525fbfa22
 15	2961	7498100800660978	gtests/CMakeFiles/tests.dir/tests.cpp.obj	fec5f14551e2bdf2
 53	8559	7498091680343023	_deps/googletest-build/googlemock/CMakeFiles/gmock.dir/src/gmock-all.cc.obj	60fc9128e57afed8
-2963	4009	7498100811111893	gtests/tests.exe	4b91c8a525fbfa22
-21179	21313	7498091808004661	lib/libgmock_maind.a	cb8e52b6c210483c
-65	20310	7498091797714582	_deps/googletest-build/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	33963674297a703e
-20965	21179	7498091806654590	lib/libgmockd.a	a6872ff344974a07
-2963	4009	7498100811111893	gtests/tests[1]_tests.cmake	4b91c8a525fbfa22

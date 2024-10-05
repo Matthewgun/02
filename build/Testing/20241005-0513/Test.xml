@@ -24,39 +24,11 @@
 	ProcessorClockFrequency="2296"
 	>
 	<Testing>
-		<StartDateTime>Oct 05 12:47 Томск (зима)</StartDateTime>
-		<StartTestTime>1728107235</StartTestTime>
-		<TestList>
-			<Test>./test_main</Test>
-		</TestList>
-		<Test Status="passed">
-			<Name>test_main</Name>
-			<Path>.</Path>
-			<FullName>./test_main</FullName>
-			<FullCommandLine>C:\labskazenkov\lab2\02\build\gtests\tests.exe</FullCommandLine>
-			<Results>
-				<NamedMeasurement type="numeric/double" name="Execution Time">
-					<Value>0.0267678</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="numeric/double" name="Processors">
-					<Value>1</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Completion Status">
-					<Value>Completed</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Command Line">
-					<Value>C:\labskazenkov\lab2\02\build\gtests\tests.exe</Value>
-				</NamedMeasurement>
-				<NamedMeasurement type="text/string" name="Environment">
-					<Value>#CTEST_RESOURCE_GROUP_COUNT=</Value>
-				</NamedMeasurement>
-				<Measurement>
-					<Value encoding="base64" compression="gzip">eJylk01u3DAMhfdzCp2AkKg/q+foLugiybiYAdpOMHbaZpdm2zv0DEHRAN0kZ7Bv1PcoJxfoYAzrk0iRfKSXX+vD+mN5We/Xh+Xver+8LL+Xx+V5eV5/Lk8Oyz/YfILJ47udqkqoUTRm0VQ6R4+9KiUZDthpg5RglECpiGoGwm5oOE0Sim6MR4OUTpG+RSqMAww90LY7N5UYQRU0wBUpxCqavXHFpUXyAMCyJhx6aRtm3FYtDIgZZhUsDSuSFfW5gwrT8/6/qARUnCT26JqF+SqjI1JEJSiqgSKFQfRh6MCiQ5ZaNkS1Hk/znT3ccFepu9cjDQHv7l2gdJNCX5WMQAH105PJ4DBQ9rZxFnQioWOeDUGOHv/S0QNhXMMbsinQEMw1/CFfLIYp9KaaMwst1tSYNkSTeEniZeyJMl/sd2YuKUpFmqwG+ecMIY0C+s1EoQhYrb2cHesbGbNVsaWdtAlq2I68ldNzhFWyKGEzReEUvkO24qiaD70ByJ5TRLEtOk6zITTDJRi30Jrlqho5qxx3fBPZUzJCQoGRM0XTShxs/l6pkMob4ebYAQUjaAJkzjWsBs6GYUxCMTE3hhBXB9ZLCrlL22iLJRQuFDAYctjxoYRUO8bctVRD/HYX7w/Hyd1cnmd3+ujmw+jmccL6dr65nd23y8mdx8+nr+PeTccv16M7zm78fj2O+6kbH87jdDh92tMbX21yV3e4QD7s/gFA3vSf====</Value>
-				</Measurement>
-			</Results>
-		</Test>
-		<EndDateTime>Oct 05 12:47 Томск (зима)</EndDateTime>
-		<EndTestTime>1728107235</EndTestTime>
+		<StartDateTime>Oct 05 12:50 Томск (зима)</StartDateTime>
+		<StartTestTime>1728107445</StartTestTime>
+		<TestList/>
+		<EndDateTime>Oct 05 12:50 Томск (зима)</EndDateTime>
+		<EndTestTime>1728107445</EndTestTime>
 		<ElapsedMinutes>0</ElapsedMinutes>
 	</Testing>
 </Site>
